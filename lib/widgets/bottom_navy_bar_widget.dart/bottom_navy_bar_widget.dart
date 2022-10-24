@@ -16,20 +16,20 @@ class _BottomNavyBarWidgetState extends State<BottomNavyBarWidget> {
       icon: Icon(Icons.import_contacts_outlined),
     ),
     NavigationItem(
-      icon: Icon(Icons.favorite_border),
+      icon: Icon(Icons.favorite),
     ),
     NavigationItem(
-      icon: Icon(Icons.person_outlined),
+      icon: Icon(Icons.person),
     ),
   ];
 
   Widget _buildItem(NavigationItem item, bool isSelected) {
     return AnimatedContainer(
       duration: Duration(milliseconds: 270),
-      width: isSelected ? 125 : 60,
+      width: isSelected ? 110 : 60,
       height: 50,
       padding: isSelected
-          ? EdgeInsets.only(left: 50)
+          ? EdgeInsets.only(left: 40)
           : EdgeInsets.only(left: 15, right: 20),
       decoration: isSelected
           ? BoxDecoration(

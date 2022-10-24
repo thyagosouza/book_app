@@ -41,8 +41,7 @@ dependencies:
   google_fonts: ^3.0.1
   multi_circular_slider: ^1.1.0
   flip_widget: ^0.1.11
-  bubble_bottom_bar: ^2.0.0
-  flutter_snake_navigationbar: ^0.6.1
+
   bottom_navy_bar: ^6.0.0
 
 dev_dependencies:
