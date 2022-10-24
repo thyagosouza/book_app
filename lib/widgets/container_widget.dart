@@ -45,10 +45,10 @@ class ContainerWidget extends StatelessWidget {
             children: [
               Positioned(
                 top: 0,
+                left: 15,
                 right: 15,
-                left: 20,
                 child: Container(
-                  height: 335,
+                  height: 330,
                   child: FlipImageWidget(
                     imageCapa: image,
                   ),
