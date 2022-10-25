@@ -12,9 +12,15 @@ Example   | How is this going?
 ![ezgif-4-8308c48d45](https://user-images.githubusercontent.com/54247489/197602942-a65dd667-8851-4717-9cec-0b9b49fdfb07.gif) | <img src="https://user-images.githubusercontent.com/54247489/197602670-b14309f7-e5d6-4a9e-a79e-f3595a02ab91.gif" alt="drawing" width="200"/>
 
 ## Used packages
-+ #### [multi_circular_slider: ^1.1.0](https://pub.dartlang.org/packages?q=multi_circular_slider)
-+ #### [flip_widget: ^0.1.11](https://pub.dartlang.org/packages?q=flip_widget)
-+ #### [native_pdf_view: ^6.0.0+1](https://pub.dartlang.org/packages?q=native_pdf_view)
+
+Package   | Version
+------------- | ----------
+[multi_circular_slider](https://pub.dartlang.org/packages?q=multi_circular_slider) | ^1.1.0
+[flip_widget: ^0.1.11](https://pub.dartlang.org/packages?q=flip_widget) | ^0.1.11
+[native_pdf_view](https://pub.dartlang.org/packages?q=native_pdf_view) |  ^6.0.0+1
+
+
+
 
 
 <!--- ## Example --->
