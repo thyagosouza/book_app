@@ -80,7 +80,7 @@ class _HomeViewState extends State<HomeView> {
                     ],
                     begin: Alignment.topCenter,
                     end: Alignment.bottomCenter,
-                    stops: [0.4, 0]),
+                    stops: [0.5, 0]),
               ),
             ),
             AnimatedPages(
