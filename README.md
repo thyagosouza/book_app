@@ -15,10 +15,9 @@ Example   | How is this going?
 
 Package   | Version
 ------------- | ----------
-[multi_circular_slider](https://pub.dartlang.org/packages?q=multi_circular_slider) | ^1.1.0
-[flip_widget: ^0.1.11](https://pub.dartlang.org/packages?q=flip_widget) | ^0.1.11
-[native_pdf_view](https://pub.dartlang.org/packages?q=native_pdf_view) |  ^6.0.0+1
-
+[**multi_circular_slider**](https://pub.dartlang.org/packages?q=multi_circular_slider) | ^1.1.0
+[**flip_widget**](https://pub.dartlang.org/packages?q=flip_widget) | ^0.1.11
+[**native_pdf_view**](https://pub.dartlang.org/packages?q=native_pdf_view) |  ^6.0.0+1
 
 
 
